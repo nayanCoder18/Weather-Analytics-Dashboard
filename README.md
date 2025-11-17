@@ -103,3 +103,6 @@ The result is a fully automated weather analytics dashboard that:
  - Can easily support more cities or more datasets in the future
 
 This project demonstrates strong skills in **API integration, Power Query, DAX, and data modeling—end to end.**
+
+**DashBoard**
+<img width="1407" height="792" alt="Dashboard image" src="https://github.com/user-attachments/assets/82d0c6f5-4b36-4988-bf11-609373a97533" />
